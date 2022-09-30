@@ -23,7 +23,8 @@
 <summary>JAVA 언어 </summary>
 <div markdown="1">
 
-2022.03 ~ 
-2022.09~
+2022.03 ~
+
+하는중인데 어렵's
 </div>
 </details>
